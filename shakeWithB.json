@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ShakeWithB",
+    "display": "Shake With B",
+    "type": "projName"
+  },
+  {
+    "name": "shakeWithB",
+    "type": "file",
+    "hooks": [
+      {
+        "name": "shakeWithB",
+        "type": "b",
+        "EU_1": "0x8005E780"
+      }
+    ]
+  }
+]
